@@ -15,7 +15,7 @@ def index():
         querystring["q"] = cityName
         
         headers = {
-            "X-RapidAPI-Key": "97f2822611msh8c3c413a3dc2263p1c515fjsn3d2df0210c04",
+            "X-RapidAPI-Key": "",
             "X-RapidAPI-Host": "community-open-weather-map.p.rapidapi.com"
         }
 
